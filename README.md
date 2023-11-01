@@ -1,4 +1,4 @@
-# React + Vite
+# PostBox
 
 This application is based on React and Vite
 
